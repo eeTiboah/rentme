@@ -1,0 +1,82 @@
+[
+    {
+      "productId": 1,
+      "productName": "Home 1",
+      "releaseDate": "March 19, 2019",
+      "description": "A 4 bedroom apartment",
+      "price": 5000,
+      "imageUrl": "assets/images/gal-1.jpeg"
+    },
+    {
+      "productId": 2,
+      "productName": "Home 2",
+      "releaseDate": "March 18, 2019",
+      "description": "A 3 bedroom house",
+      "price": 4599,
+      "imageUrl": "assets/images/gal-2.jpeg"
+    },
+    {
+      "productId": 3,
+      "productName": "Home 3",
+      "releaseDate": "May 21, 2019",
+      "description": "A 2 bedroom house",
+      "price": 3000,
+      "imageUrl": "assets/images/gal-3.jpeg"
+    },
+    {
+      "productId": 4,
+      "productName": "Home 4",
+      "releaseDate": "May 15, 2019",
+      "description": "A large house",
+      "price": 1000,
+      "imageUrl": "assets/images/gal-4.jpeg"
+    },
+    {
+      "productId": 5,
+      "productName": "Home 5",
+      "releaseDate": "October 15, 2018",
+      "description": "A small house",
+      "price": 595,
+      "imageUrl": "assets/images/gal-5.jpeg"
+    },
+    {
+      "productId": 6,
+      "productName": "Home 6",
+      "releaseDate": "November 15, 2018",
+      "description": "A very small house",
+      "price": 395,
+      "imageUrl": "assets/images/gal-6.jpeg"
+    },
+    {
+      "productId": 7,
+      "productName": "Home 7",
+      "releaseDate": "January 15, 2019",
+      "description": "A mud house",
+      "price": 235,
+      "imageUrl": "assets/images/gal-7.jpeg"
+    },
+    {
+      "productId": 8,
+      "productName": "Home 8",
+      "releaseDate": "January 20, 2019",
+      "description": "A sand house",
+      "price": 135,
+      "imageUrl": "assets/images/gal-8.jpeg"
+    },
+    {
+      "productId": 9,
+      "productName": "Home 9",
+      "releaseDate": "January 30, 2018",
+      "description": "A stone house",
+      "price": 835,
+      "imageUrl": "assets/images/gal-9.jpeg"
+    },
+    {
+      "productId": 10,
+      "productName": "Home 10",
+      "releaseDate": "August 30, 2019",
+      "description": "A sheet house",
+      "price": 935,
+      "imageUrl": "assets/images/gal-10.jpeg"
+    }
+  ]
